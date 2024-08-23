@@ -1,1 +1,1 @@
-from pvloader import *
+import pvloader as pvl
